@@ -1,0 +1,111 @@
+﻿.Grid {
+    max-width: 100%;
+}
+
+.knapp {
+    display: block;
+}
+
+.knapp-lower {
+    margin-top: 15px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+.admin-knappar {
+    color: #000;
+    background-color: #ffffff;
+    color: #333333;
+    padding: 15px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.title-start {
+    margin-bottom: 15px;
+}
+
+.provknapp {
+   margin-left:auto;
+   margin-right:auto;
+}
+
+.quizz-text {
+    margin-top: 30px;
+    display: block;
+    text-align: left;
+    font-weight: normal !important;
+}
+
+.text {
+    display: block;
+    margin-top: 15px;
+}
+
+.title {
+    margin-top: 100px;
+    display: block;
+}
+
+.list-style label {
+    font-weight: normal;
+}
+
+.list-style {
+    margin-bottom: 100px;
+}
+
+.återkoppling-box {
+    border: 2px solid #9b9b9b;
+    padding: 10px;
+    width: 70%;
+}
+
+.list-style-pass-test {
+    margin-bottom: 100px !important;
+    margin-top: 30px;
+    display: block;
+    text-align: left;
+    font-weight: normal !important;
+}
+
+.background-color {
+    font-weight: normal !important;
+    display: block;
+}
+
+.feedback {
+    text-align: left;
+    width: 40%;
+    margin: 0 auto 30px;
+}
+
+.text-fix {
+    width: 150%;    
+}
+
+.pass {
+    text-align: center;
+    display: block;
+}
+
+.picture {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+    max-width: 100%;
+}
+
+.passtext {
+    display: block;
+}
+
+.align {
+    text-align: left;
+    width: 40%;
+    margin: 0 auto 30px;
+}

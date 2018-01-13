@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+  <question title="Vilka av följande alternativ har man rätt till om varan går sönder under garanti tiden? (3 rätt)" subject="Produkter" type="Multi" picture="">
+    <option1 istrue="true">Varan lagas</option1>
+    <option2 istrue="true">Få en annan vara</option2>
+    <option3 istrue="true">Få skadestånd</option3>
+    <option4 istrue="false">Stämma företaget</option4>
+  </question>
+  <question title="Har man rätt att häva ett köp utan kvitto?" subject="Produkter" type="One" picture="">
+    <option1 istrue="false">Ja</option1>
+    <option2 istrue="true">Nej</option2>
+    <option3 istrue="false">Ja, om varan kostar mer än 1000kr</option3>
+    <option4 istrue="false">Ja, om det är en elektronik produkt</option4>
+  </question>
+  <question title="Har alla produkter man köper öppet köp?" subject="Produkter" type="One" picture="">
+    <option1 istrue="false">Ja</option1>
+    <option2 istrue="false">Nej, bara under vissa perioder erbjuds öppet köp</option2>
+    <option3 istrue="false">Ja, bara om produkten går sönder inom 14 dagar</option3>
+    <option4 istrue="true">Nej</option4>
+  </question>
+  <question title="Kan butiker ha rea när de vill?" subject="Produkter" type="One" picture="">
+    <option1 istrue="false">Ja</option1>
+    <option2 istrue="false">Ja, men de måste ansöka om det</option2>
+    <option3 istrue="true">Nej, butikerna måste följa rea lagen</option3>
+    <option4 istrue="false">Ja, om omsättningen är nog hög</option4>
+  </question>
+  <question title="Vilka följande punkter om bytesrätt är korrekt? (3 rätt)" subject="Produkter" type="Multi" picture="">
+    <option1 istrue="false">Du måste betala extra för det</option1>
+    <option2 istrue="true">Lämna till baka varan i tid</option2>
+    <option3 istrue="true">Fråga om bytesrätt erbjuds innan du köper</option3>
+    <option4 istrue="true">Spara kvitto</option4>
+  </question>
+  <question title="Vad är Nationalekonomi?" subject="Ekonomi" type="One" picture="">
+    <option1 istrue="false">Man studerar ekonomi och vilken effekt det har på hälsan</option1>
+    <option2 istrue="true">Man studerar hur ett samhälle använder sina resurser och vilka effekter de har på andra områden</option2>
+    <option3 istrue="false">Man studerar ett företags ekonomi</option3>
+    <option4 istrue="false">Man studerar en privatpersons ekonomi</option4>
+  </question>
+  <question title="Vilka av följande del områden tillhör till Nationalekonomi? (3 rätt)" subject="Ekonomi" type="Multi" picture="">
+    <option1 istrue="true">Monetär ekonomi</option1>
+    <option2 istrue="true">Utvecklingsekonomi</option2>
+    <option3 istrue="false">Landsekonomi</option3>
+    <option4 istrue="true">Offentlig ekonomi</option4>
+  </question> 
+  <question title="Vad är penningmängd?" subject="Ekonomi" type="One" picture="">
+    <option1 istrue="true">Penningmängd är den totala summan pengar som finns i en ekonomi</option1>
+    <option2 istrue="false">Det finns för mycket pengar i landet</option2>
+    <option3 istrue="false">Det finns för lite pengar i landet</option3>
+    <option4 istrue="false">Valuans värde har ökat</option4>
+  </question>
+  <question title="Vad studerar man i offentlig ekonomi? (3 rätt)" subject="Ekonomi" type="Multi" picture="">
+    <option1 istrue="false">Företags ekonomi</option1>
+    <option2 istrue="true">Hälsa</option2>
+    <option3 istrue="true">Skatter</option3>
+    <option4 istrue="true">Utbildning</option4>
+  </question>
+  <question title="Vad är penningteori" subject="Ekonomi" type="One" picture="">
+    <option1 istrue="false">Studie om olika valutor</option1>
+    <option2 istrue="false">Studie om förhållandet mellan klimat och ekonomi</option2>
+    <option3 istrue="false">Studie om olika skatter</option3>
+    <option4 istrue="true">Studie om pengar vars värde uppkomst och effekt på människor</option4>
+  </question>
+  <question title="Vad är etik" subject="Etik och regelverk" type="One" picture="">
+    <option1 istrue="false">Etik handlar om vilka förväntningar en person har i ett samhälle</option1>
+    <option2 istrue="true">Etik handlar om vad som är rätt eller fel</option2>
+    <option3 istrue="false">Etik handlar om hur ett företag ska behandla lönehöjningar</option3>
+    <option4 istrue="false">Etik finns bara i teorin</option4>
+  </question>
+  <question title="Vilka av följande etik typer finns det (3 rätt)" subject="Etik och regelverk" type="Multi" picture="">
+    <option1 istrue="true">IT-etik</option1>
+    <option2 istrue="true">Yrkesetik</option2>
+    <option3 istrue="true">Bioetik</option3>
+    <option4 istrue="false">Matetik</option4>
+  </question>
+  <question title="Vilka av följande etik områden är sanna (3 rätt)" subject="Etik och regelverk" type="Multi" picture="">
+    <option1 istrue="true">Metaetik</option1>
+    <option2 istrue="false">Teorietik</option2>
+    <option3 istrue="true">Tillämpad etik</option3>
+    <option4 istrue="true">Normal etik</option4>
+  </question>
+  <question title="Vad är en lag" subject="Etik och regelverk" type="One" picture="">
+    <option1 istrue="true">Det är en regel vad man får och inte göra</option1>
+    <option2 istrue="false">Det är en skatt</option2>
+    <option3 istrue="false">Det är en norm</option3>
+    <option4 istrue="false">Det är en moral och etik fråga</option4>
+  </question>
+  <question title="Vilket organ stiftar lagar" subject="Etik och regelverk" type="One" picture="">
+    <option1 istrue="false">Kommuner</option1>
+    <option2 istrue="true">Riksdagen</option2>
+    <option3 istrue="false">Regeringen</option3>
+    <option4 istrue="false">Organisationer</option4>
+  </question>
+</questions>

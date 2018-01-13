@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<questions>
+  <question title="Vilken valuta har man i England?" subject="Ekonomi" type="One" picture="">
+    <option1 istrue="false">USD</option1>
+    <option2 istrue="true">GBP</option2>
+    <option3 istrue="false">CAD</option3>
+    <option4 istrue="false">EUR</option4>
+  </question>
+  <question title="Vad är ränta?" subject="Ekonomi" type="One" picture="">
+    <option1 istrue="false">Det är en skatt</option1>
+    <option2 istrue="false">Det är ett avtal</option2>
+    <option3 istrue="false">Det är en tvist</option3>
+    <option4 istrue="true">Ränta är allmänt priset på lån</option4>
+  </question>
+  <question title="Vad är amortering?" subject="Ekonomi" type="One" picture="">
+    <option1 istrue="true">Det är en avbetalning av en skuld</option1>
+    <option2 istrue="false">Det är en ökning av din skuld</option2>
+    <option3 istrue="false">Det är en låneform</option3>
+    <option4 istrue="false">Det är en ränta som banken erbjuder</option4>
+  </question>
+  <question title="Vilka av följande länder har Euro? (3 rätt)" subject="Ekonomi" type="Multi" picture="">
+    <option1 istrue="true">Tyskland</option1>
+    <option2 istrue="true">Finland</option2>
+    <option3 istrue="true">Irland</option3>
+    <option4 istrue="false">Sverige</option4>
+  </question>
+  <question title="Vad är börsen?" subject="Ekonomi" type="One" picture="">
+    <option1 istrue="false">Det är ett forum där tvister diskuteras</option1>
+    <option2 istrue="false">Det är ett bolagsform</option2>
+    <option3 istrue="true">Det är en marknadsplats där man kan köpa och sälja aktier</option3>
+    <option4 istrue="false">Det är en order typ</option4>
+  </question>
+  <question title="Kan man långa pengar hos en bank?" subject="Ekonomi" type="One" picture="">
+    <option1 istrue="true">Ja</option1>
+    <option2 istrue="false">Nej</option2>
+    <option3 istrue="false">Ibland</option3>
+    <option4 istrue="false">Om de vill</option4>
+  </question>
+  <question title="Var ligger origo?" subject="Ekonomi" type="One" picture="graf.jpg">
+    <option1 istrue="false">Origo finns inte i en graf</option1>
+    <option2 istrue="true">I mitten</option2>
+    <option3 istrue="false">I Y axeln</option3>
+    <option4 istrue="false">I X axeln</option4>
+  </question>
+  <question title="Vilket summa är det på år 5?" subject="Ekonomi" type="One" picture="linegraf.jpg">
+    <option1 istrue="false">17</option1>
+    <option2 istrue="true">16</option2>
+    <option3 istrue="false">15</option3>
+    <option4 istrue="false">14</option4>
+  </question>
+  <question title="Hur många dagar gäller ångerrätt?" subject="Produkter" type="One" picture="">
+    <option1 istrue="false">30</option1>
+    <option2 istrue="false">60</option2>
+    <option3 istrue="true">14</option3>
+    <option4 istrue="false">7</option4>
+  </question>
+   <question title="Vad är en produkt?" subject="Produkter" type="One" picture="">
+    <option1 istrue="true">Det är en vara eller en tjänst</option1>
+    <option2 istrue="false">Det är ett erbjudande</option2>
+    <option3 istrue="false">Det är en tvist</option3>
+    <option4 istrue="false">Det är en skatt</option4>
+  </question>
+ <question title="Vilket alternativ är sant angående marknadsföringslagen?" subject="Produkter" type="One" picture="">
+    <option1 istrue="true">Det finns en marknadsföringslag</option1>
+    <option2 istrue="false">Det finns inte en marknadsföringslag</option2>
+    <option3 istrue="false">Det ska komma en marknadsföringslag</option3>
+    <option4 istrue="false">Det fanns en marknadsföringslag</option4>
+  </question>
+   <question title="Vad är momesen procent sats i Sverige på produkter" subject="Produkter" type="One" picture="">
+    <option1 istrue="false">50%</option1>
+    <option2 istrue="false">30%</option2>
+    <option3 istrue="false">15%</option3>
+    <option4 istrue="true">25%</option4>
+  </question>
+ <question title="Kan man häva ett köp" subject="Produkter" type="One" picture="">
+    <option1 istrue="false">Beror på vad man köper</option1>
+    <option2 istrue="false">Nej</option2>
+    <option3 istrue="true">Ja</option3>
+    <option4 istrue="false">Om säljaren går med på det</option4>
+  </question>
+  <question title="Vilka parter gäller det i en reklamation?" subject="Produkter" type="One" picture="">
+    <option1 istrue="false">Du och konsumentverket</option1>
+    <option2 istrue="false">Du och domstolen</option2>
+    <option3 istrue="true">Du och säljaren/företaget (där du köpte produkten)</option3>
+    <option4 istrue="false">Du och tillverkaren</option4>
+  </question>
+  <question title="Kan konsumentverket hjäpla dig som kund med frågor?" subject="Produkter" type="One" picture="">
+    <option1 istrue="false">Ja, men det kostar</option1>
+    <option2 istrue="false">Ibland</option2>
+    <option3 istrue="false">Nej</option3>
+    <option4 istrue="true">Ja</option4>
+  </question>
+  <question title="Inom hur många år kan man reklarmera?" subject="Produkter" type="One" picture="">
+    <option1 istrue="false">1</option1>
+    <option2 istrue="true">3</option2>
+    <option3 istrue="false">5</option3>
+    <option4 istrue="false">2</option4>
+  </question>
+  <question title="Vilka av följande produkt kategorier finns det? (3 rätt)" subject="Produkter" type="Multi" picture="">
+    <option1 istrue="true">Verktyg</option1>
+    <option2 istrue="true">Mat och dryck</option2>
+    <option3 istrue="true">Musikinstrument</option3>
+    <option4 istrue="false">Godis</option4>
+  </question>
+  <question title="Varför är etik viktigt?" subject="Etik och regelverk" type="One" picture="">
+    <option1 istrue="true">Det är vikigt hur man löser problem och konflikter på ett bra sätt</option1>
+    <option2 istrue="false">Det är vikigt för att etik hjäper oss i vardagen</option2>
+    <option3 istrue="false">Etik är inte så viktigt längre</option3>
+    <option4 istrue="false">Etik hjäpler oss göra dom mest rationella valen</option4>
+  </question>
+  <question title="Vad menas med denna bild?" subject="Etik och regelverk" type="One" picture="etikpyramid.png">
+    <option1 istrue="false">Etikens principer</option1>
+    <option2 istrue="false">Etikens mål</option2>
+    <option3 istrue="false">Etikens grunder</option3>
+    <option4 istrue="true">Etikens delområden</option4>
+  </question>
+  <question title="Är det viktigt med bra etik på en arbetsplats?" subject="Etik och regelverk" type="One" picture="">
+    <option1 istrue="true">Ja</option1>
+    <option2 istrue="false">Nej</option2>
+    <option3 istrue="false">Vid vissa fall</option3>
+    <option4 istrue="false">Ja, om det passar</option4>
+  </question>
+  <question title="Hur många sidor är lagboken?" subject="Etik och regelverk" type="One" picture="">
+    <option1 istrue="false">5000</option1>
+    <option2 istrue="false">3000</option2>
+    <option3 istrue="false">5500</option3>
+    <option4 istrue="true">4512</option4>
+  </question>
+  <question title="Vilka konsekvense kan det bli om man bryter mot en lag (3 rätt)?" subject="Etik och regelverk" type="Multi" picture="">
+    <option1 istrue="true">Böter</option1>
+    <option2 istrue="true">Fängelse</option2>
+    <option3 istrue="true">Vård</option3>
+    <option4 istrue="false">Varning</option4>
+  </question>
+  <question title="Varför finns lagar?" subject="Etik och regelverk" type="One" picture="">
+    <option1 istrue="true">För att samhället ska funka och det ska vara rättvist</option1>
+    <option2 istrue="false">För att samhället är så</option2>
+    <option3 istrue="false">Det är bara så</option3>
+    <option4 istrue="false">Ligger i vår natur att det ska vara så</option4>
+  </question>
+  <question title="Hur många grundlagar finns det i sverige?" subject="Etik och regelverk" type="One" picture="">
+    <option1 istrue="false">10</option1>
+    <option2 istrue="true">4</option2>
+    <option3 istrue="false">3</option3>
+    <option4 istrue="false">12</option4>
+  </question>
+  <question title="Har alla rätt till en advokat om en person har blivit häktad?" subject="Etik och regelverk" type="One" picture="">
+    <option1 istrue="true">Ja</option1>
+    <option2 istrue="false">Nej</option2>
+    <option3 istrue="false">Den som är åtalad måste betala för det</option3>
+    <option4 istrue="false">Vid vissa brott</option4>
+  </question>
+</questions>
